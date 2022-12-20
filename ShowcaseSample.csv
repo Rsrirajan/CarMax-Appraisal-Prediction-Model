@@ -1,0 +1,13 @@
+price,appraisal_offer,online_appraisal_flag,model_year,mileage,make,model,trim_descrip,body,color,engine,cylinders,mpg_city,mpg_highway,horsepower,fuel_capacity,model_year_appraisal,mileage_appraisal,make_appraisal,model_appraisal,trim_descrip_appraisal,body_appraisal,color_appraisal,engine_appraisal,cylinders_appraisal,mpg_city_appraisal,mpg_highway_appraisal,horsepower_appraisal,fuel_capacity_appraisal,market
+$20k to $25k,$0k to $5k,1,2014.0,15k to 20k miles,HDT,HDT_12,Premium,E,Red,2.0L,4,27,33,152,16,2001.0,200k+ miles,AIH,AIH_32,null,D,Silver,4.0L,6,17,21,236,21,13
+$15k to $20k,$0k to $5k,0,2006.0,100k+ miles,KQZ,KQZ_23,Premium,E,Silver,3.5L,6,19,27,285,18,1996.0,0 to 10k miles,KQZ,KQZ_3,Not Premium,D,Gold,4.2L,6,16,21,205,25,11
+$30k to $35k,$35k to $40k,1,2014.0,5k to 10k miles,CZV,CZV_10,Premium,E,Black,2.5L,4,24,30,187,15,2014.0,10k to 20k miles,CIP,CIP_16,null,E,Red,2.0L,4,41,38,181,10,13
+$35k to $40k,$5k to $10k,1,2014.0,15k to 20k miles,IZA,IZA_19,Premium,F,Silver,2.0L,4,25,34,255,15,2006.0,100k to 110k miles,IZA,null,Premium,F,Blue,3.0L,6,17,25,230,16,13
+$30k to $35k,$15k to $20k,1,2011.0,35k to 40k miles,HDT,HDT_8,Premium,F,Blue,2.5L,4,17,23,305,15,2011.0,20k to 30k miles,LTX,LTX_20,Not Premium,E,Black,2.4L,4,20,29,182,18,16
+$15k to $20k,$5k to $10k,0,2013.0,35k to 40k miles,OFW,OFW_11,Not Premium,F,White,2.4L,4,25,35,185,18,2009.0,160k to 170k miles,FJE,FJE_10,Not Premium,F,Black,3.6L,6,18,27,292,19,10
+$35k to $40k,$40k+,0,2013.0,20k to 25k miles,LTX,LTX_21,Premium,B,Blue,6.2L,8,16,25,455,19,2012.0,30k to 40k miles,LTX,LTX_27,Not Premium,B,Black,6.2L,8,16,25,455,18,8
+$15k to $20k,$5k to $10k,0,2012.0,30k to 35k miles,LTX,LTX_30,Not Premium,E,Black,1.4L,4,24,30,138,14,2010.0,80k to 90k miles,HXQ,HXQ_8,Not Premium,F,Silver,1.8L,4,30,39,143,13,1
+$30k to $35k,$20k to $25k,0,2013.0,35k to 40k miles,FVQ,FVQ_4,Premium,E,Black,3.6L,6,18,25,310,19,2010.0,60k to 70k miles,FVQ,FVQ_4,Premium,E,Black,3.6L,6,17,24,288,22,9
+$20k to $25k,$0k to $5k,0,2015.0,45k to 50k miles,ARU,ARU_4,Not Premium,E,Gray,2.5L,4,26,33,170,14,2003.0,200k+ miles,CFK,CFK_8,Not Premium,E,Blue,4.7L,8,15,21,235,20,16
+$30k to $35k,$5k to $10k,1,2014.0,15k to 20k miles,HXQ,HXQ_14,Premium,F,Blue,2.0L,4,23,34,252,14,2002.0,110k to 120k miles,CIP,CIP_3,null,F,Silver,3.5L,6,21,30,272,18,11
+$45k to $50k,$0k to $5k,0,2012.0,70k to 75k miles,BDP,BDP_11,null,E,Burgundy,6.2L,8,15,20,420,31,2001.0,100k to 110k miles,JDZ,JDZ_101,null,E,Burgundy,3.5L,6,16,21,268,21,12
